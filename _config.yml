@@ -14,9 +14,4 @@ heading_anchors: true
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 Stuart Paton. All sources have been cited within each page."
 
-# Color scheme currently only supports "dark" or nil (default)
-color_scheme: nil
-
 permalink: pretty
-
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
