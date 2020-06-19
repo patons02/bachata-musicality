@@ -1,6 +1,6 @@
 ---
 permalink: /site-map
-nav-order: 2
+nav-order: 9999
 title: Site Map
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Welcome!
-nav-order: 3
+nav-order: 1
 ---
 
 # Welcome!
