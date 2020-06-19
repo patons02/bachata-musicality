@@ -1,16 +1,15 @@
-remote_theme: pmarsceill/just-the-docs
+remote_theme: carlosperate/jekyll-theme-rtd
 title: Bachata Musicality
 
-# Enable or disable the site search
+site_author: Stuart Paton
+repo_url: 'https://github.com/patons02/bachata-musicality'
+edit_on_github: true
+github_docs_folder: false
+sticky_navigation: true
+prev_next_buttons_location: None
+prev_next_buttons_location: top
+prev_next_buttons_location: bottom
+prev_next_buttons_location: both
 search_enabled: true
-
-# Set the search token separator for hyphenated-word search:
-search_tokenizer_separator: /[\s/]+/
-
-# Enable or disable heading anchors
-heading_anchors: true
-
-# Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020 Stuart Paton. All sources have been cited within each page."
-
-permalink: pretty
+# The highlight.js library provides 79 different colours for their syntax highlighting. The default is github-gist.
+hljs_style: github-gist
