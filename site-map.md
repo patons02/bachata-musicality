@@ -1,7 +1,8 @@
 ---
+layout: default
 permalink: /site-map
-nav-order: 9999
 title: Site Map
+nav-order: 3
 ---
 
 # Site Map

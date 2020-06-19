@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /musicality-resources
 title: Musicality Resources
 nav_order: 2
