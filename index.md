@@ -9,4 +9,4 @@ Within this site I want to take you on a journey of exploration through the musi
 
 I hope it helps you learn more about the music to make you a more confident dancer.
 
-:warning: **Please note that this website is currently a work in progress Proof of Concept. Some pages may not work fully yet.**
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/OOjs_UI_icon_alert-warning.svg/240px-OOjs_UI_icon_alert-warning.svg.png) **Please note that this website is currently a work in progress Proof of Concept. Some pages may not work fully yet.**
